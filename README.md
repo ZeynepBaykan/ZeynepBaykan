@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Deep Learning and Machine Learning
+- 🔭 I’m currently working on Cybersecurity,Linux and Cyberark
+- 🌱 I’m currently learning UTM devices and Cyberark
 
-- 💬 Ask me about Python,SQL and Machine Learning
+- 💬 Ask me about Network,System and Cybersecurity
 - 📫 How to reach me: https://www.linkedin.com/in/zeynep-baykan-4b2346158/
 
